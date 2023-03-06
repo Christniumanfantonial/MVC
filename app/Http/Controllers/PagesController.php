@@ -25,7 +25,7 @@ class PagesController extends Controller
         return view('products.about',['version4' => Iphone::all()]);
     }
     public function contact(){
-        return view('products.contact',['version6' => Contact::all()]);
+        return view('products.contact',['version5' => Contact::all()]);
     }
 
 }

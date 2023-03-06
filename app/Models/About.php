@@ -13,7 +13,7 @@ class About
         
             $products_version2 = [
                 [
-                'head'=>'a',
+                'head'=>'Service',
                 'body'=>'A trust worthy products.'
             ],
             ];

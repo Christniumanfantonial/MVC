@@ -10,13 +10,13 @@ class Contact
     public static function all()
     {
         
-            $products_version6 = [
+            $products_version5 = [
                 [
                 'head'=>'Contact Us',
                 'body'=>'Reach Us'
             ],
             ];
-            return $products_version6;
+            return $products_version5;
         
         
     }

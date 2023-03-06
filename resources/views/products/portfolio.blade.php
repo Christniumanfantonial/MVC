@@ -10,7 +10,7 @@
 @foreach ($version3 as $list)
 
      <!-- Portfolio Grid-->
-     <section class="page-section bg-light" id="portfolio">
+     <section class="page-section" id="portfolio">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">{{ $list['head'] }}</h2>

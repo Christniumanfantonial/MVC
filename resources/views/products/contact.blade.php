@@ -2,12 +2,12 @@
 
 {{-- <h1>{{ $title }}</h1>
 <h2>{{ $heading }}</h2>
-@foreach ($version6 as $list)
+@foreach ($version5 as $list)
     <h3>{{ $list['flavor'] }}</h3>
     <p>{{ $list['desc'] }}</p>
 @endforeach --}}
 @section('content')
-@foreach ($version6 as $list)
+@foreach ($version5 as $list)
 
 <!-- Contact-->
 <section class="page-section" id="contact">

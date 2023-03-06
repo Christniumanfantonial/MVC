@@ -12,8 +12,8 @@ class Iphone
         
             $products_version4 = [
                 [
-                'head'=>'About',
-                'body'=>'Explore more about iphone products'
+                'head'=>'Explore more',
+                'body'=>'About iphone products'
             ],
             ];
             return $products_version4;

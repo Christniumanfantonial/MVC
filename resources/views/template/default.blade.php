@@ -27,9 +27,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="{{ url('/services') }}">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{ url('/portfolio') }}">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{ url('/about') }}">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ url('/services') }}">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ url('/portfolio') }}">Products</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ url('/about') }}">Iphone</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ url('/contact') }}">Contact</a></li>
                     </ul>
                 </div>
@@ -43,13 +43,13 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start"></div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/niuman.fantonial/" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                       
                     </div>
                     <div class="col-lg-4 text-lg-end">
-                        <a class="link-dark text-decoration-none me-3" href="#!"></a>
-                        <a class="link-dark text-decoration-none" href="#!"></a>
+                        <a class="link-dark text-decoration-none me-3" href="#https://www.facebook.com/niuman.fantonial/"></a>
+                        <a class="link-dark text-decoration-none" href="https://www.facebook.com/niuman.fantonial/"></a>
                     </div>
                 </div>
             </div>

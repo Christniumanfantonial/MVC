@@ -32,6 +32,8 @@ class DatabaseSeeder extends Seeder
             'items'          =>  'Iphone 114',
             'price'       =>  '$1049',
             'details'          =>  '1tb'
+            
+            
         ]);
     }
 }
